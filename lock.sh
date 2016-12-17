@@ -1,7 +1,5 @@
 #!/bin/sh
 
-export DISPLAY=:0
-
 img=/tmp/screenlock.png
 
 scrot $img
